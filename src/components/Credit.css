@@ -1,0 +1,15 @@
+.credit {
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.credit a {
+    color: #181818;
+}
+
+.credit .MuiSvgIcon-root {
+    color: red;
+    line-height: 2;
+    font-size: 1rem !important;
+}
